@@ -1,7 +1,7 @@
 # ThugOfWar
 A local thug of war game demonstrating the socket-server connection principle with a Swing GUI
 
-#How to play:
+# How to play:
 
 - run the server main loop
 - run client main loop for as many players as You want, a pop up window will apear
